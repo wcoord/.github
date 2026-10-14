@@ -6,5 +6,5 @@ Development takes place at https://git.informatics.coop/wcoord - Github is only 
 A project from the
 <br />
 <a href="https://informatics.coop/">
-<img src="wciit_logo.svg" alt="Worker Cooperative for Interdisciplinary Information Technology (WCIIT)" />
+<img src="wciit_logo.webp" alt="Worker Cooperative for Interdisciplinary Information Technology (WCIIT)" />
 </a>
